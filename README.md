@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="mailto:deepaksharmaa.39@gmail.com" target="blank"><img src="https://img.shields.io/badge/Reach_to_me_via_Mail_-000?style=for-the-badge&logo=gmail&logoColor=pink" alt="Mail" /></a> </p>
 
-<p align="left"> <a href="https://deepaksharma-39.github.io/Resume/index.html" target="blank"><img src="https://img.shields.io/badge/Resume_-000?style=for-the-badge&logo=files&logoColor=green" alt="Resume" /></a> </p>
+<p align="left"> <a href="https://github.com/Deepaksharma-39" target="blank"><img src="https://img.shields.io/badge/Resume_-000?style=for-the-badge&logo=files&logoColor=green" alt="Portfolio" /></a> </p>
 
 
 
