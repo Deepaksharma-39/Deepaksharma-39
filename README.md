@@ -1,18 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deepak Sharma</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A curious developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaksharma-39&label=Profile%20views&color=0e75b6&style=flat" alt="deepaksharma-39" /> </p>
 
 
 
-
-
-
-<p align="left"> <a href="https://deepaksharma-39.github.io/" target="blank"><img src="https://img.shields.io/badge/Deepak_Sharma_-000?style=for-the-badge&logo=ko-fi&logoColor=gold" alt="Deepak_Sharma" /></a> </p>
-
-<p align="left"> <a href="mailto:deepaksharmaa.39@gmail.com" target="blank"><img src="https://img.shields.io/badge/Reach_to_me_via_Mail_-000?style=for-the-badge&logo=gmail&logoColor=pink" alt="Mail" /></a> </p>
-
-<p align="left"> <a href="https://github.com/Deepaksharma-39" target="blank"><img src="https://img.shields.io/badge/Resume_-000?style=for-the-badge&logo=files&logoColor=green" alt="Portfolio" /></a> </p>
+<p align="left"> <a href="https://deepaksharma-39.github.io/" target="blank"><img src="https://img.shields.io/badge/Portfolio_-000?style=for-the-badge&logo=files&logoColor=green" alt="Portfolio" /></a> </p>
 
 
 
@@ -26,7 +19,7 @@
 
 - 🌱 I’m currently learning **Java,SQL**
 
-- 💬 Ask me about **JAVA, JAVASCRIPT, DSA, Frontend-Design**
+- 💬 Ask me about **JAVA, JAVASCRIPT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
