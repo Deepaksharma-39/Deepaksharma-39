@@ -17,7 +17,7 @@
 
 
 
-- 🌱 I’m currently learning **Java,SQL**
+- 🌱 I’m currently working on **Java,Sring, Rest API's**
 
 - 💬 Ask me about **JAVA, JAVASCRIPT**
 
