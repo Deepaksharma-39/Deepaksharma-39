@@ -36,6 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepaksharma-39&show_icons=true&locale=en" alt="deepaksharma-39" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepaksharma-39&" alt="deepaksharma-39" /></p>
-
-
-optimize and make this more pleaseant use your own imagination to make changes in images or anything make it more sci fi type
