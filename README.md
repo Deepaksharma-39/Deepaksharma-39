@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Sharma</h1>
-<h3 align="center">A Java developer from India</h3>
+<h3 align="center">A Web Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaksharma-39&label=Profile%20views&color=0e75b6&style=flat" alt="deepaksharma-39" /> </p>
 
