@@ -1,38 +1,97 @@
-<h1 align="center">Hi 👋, I'm Deepak Sharma</h1>
-<h3 align="center">A Java developer from India</h3>
+<!DOCTYPE html>
+<html>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaksharma-39&label=Profile%20views&color=0e75b6&style=flat" alt="deepaksharma-39" /> </p>
+<head>
+  <style>
+    body {
+      background-color: #0c1117;
+      color: #c9d1d9;
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+    }
 
+    .container {
+      text-align: center;
+    }
 
+    .profile-img {
+      border-radius: 50%;
+      border: 2px solid #58a6ff;
+      width: 150px;
+      height: 150px;
+      object-fit: cover;
+    }
 
-<p align="left"> <a href="https://deepaksharma-39.github.io/" target="blank"><img src="https://img.shields.io/badge/Portfolio_-000?style=for-the-badge&logo=files&logoColor=green" alt="Portfolio" /></a> </p>
+    .heading {
+      font-size: 2.5rem;
+      margin-top: 1rem;
+    }
 
+    .subheading {
+      font-size: 1.5rem;
+      margin-top: 0.5rem;
+      color: #58a6ff;
+    }
 
+    .social-icons a {
+      margin: 0 0.5rem;
+      color: #58a6ff;
+      transition: color 0.3s ease;
+    }
 
+    .social-icons a:hover {
+      color: #79c0ff;
+    }
 
+    .languages {
+      margin-top: 2rem;
+    }
 
+    .stats {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 2rem;
+    }
 
+    .stats img {
+      margin: 0 1rem;
+      width: 40px;
+      height: 40px;
+    }
+  </style>
+</head>
 
+<body>
+  <div class="container">
+    <img src="profile.jpg" alt="Profile Image" class="profile-img">
+    <h1 class="heading">Hi 👋, I'm Deepak Sharma</h1>
+    <h3 class="subheading">A Java Developer from India</h3>
 
+    <div class="social-icons">
+      <a href="https://linkedin.com/in/d33pak-sharma" target="blank">&#128100;</a>
+      <a href="https://stackoverflow.com/users/deepak-sharma" target="blank">&#128640;</a>
+      <a href="https://www.hackerrank.com/deepaksharmaa_39" target="blank">&#127891;</a>
+    </div>
 
+    <div class="languages">
+      <img src="java.svg" alt="Java" title="Java">
+      <img src="spring.svg" alt="Spring" title="Spring">
+      <img src="javascript.svg" alt="JavaScript" title="JavaScript">
+      <img src="aws.svg" alt="AWS" title="AWS">
+      <img src="mysql.svg" alt="MySQL" title="MySQL">
+      <img src="nodejs.svg" alt="Node.js" title="Node.js">
+    </div>
 
+    <div class="stats">
+      <img src="code.svg" alt="Code">
+      <p>Working on Java, Spring, and Rest APIs</p>
+    </div>
+  </div>
+</body>
 
-- 🌱 I’m currently working on **Java,Sring, Rest API's**
-
-- 💬 Ask me about **JAVA, JAVASCRIPT**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/d33pak-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="d33pak-sharma" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/deepak-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="deepak-sharma" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/deepaksharmaa_39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepaksharmaa_39" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepaksharma-39&show_icons=true&locale=en&layout=compact" alt="deepaksharma-39" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepaksharma-39&show_icons=true&locale=en" alt="deepaksharma-39" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepaksharma-39&" alt="deepaksharma-39" /></p>
+</html>
