@@ -17,9 +17,9 @@
 
 
 
-- 🌱 I’m currently working on **Java,Sring, Rest API's**
+- 🌱 I’m currently working on **React  & Node.js**
 
-- 💬 Ask me about **JAVA, JAVASCRIPT**
+- 💬 Ask me about **Frontend, Backend and who's my favorite anime character**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
