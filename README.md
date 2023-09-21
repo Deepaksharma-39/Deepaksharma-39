@@ -44,6 +44,8 @@
 <code><img title="Spring" alt="Spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></code>
 <code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 <code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
+<code><img title="ExpressJS" alt="node js" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original-wordmark.svg" /></code>
+<code><img title="Docker" alt="node js" width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" /></code>
 <code> <img title="Php" alt="Php" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
 </br></br>
 
