@@ -9,11 +9,11 @@
 
 <h2>ℹ️ Project info</h2>
 <div>
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Deepaksharma-39/Countryard?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Deepaksharma-39/dbwebapp?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
 <!-- <img alt="GitHub forks" src="https://img.shields.io/github/forks/Deepaksharma-39/ebikes-lwc?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px"> -->
 <!-- <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Deepaksharma-39/ebikes-lwc?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px"> -->
 <img alt="Last commit" src="https://img.shields.io/github/last-commit/Deepaksharma-39/dbwebapp?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/Deepaksharma-39/LearnReact?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/Deepaksharma-39/dbwebapp?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
 
 </div>
 
