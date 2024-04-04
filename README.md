@@ -1,10 +1,13 @@
-<div id="top"></div>
+
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Deepak+Sharma;Fullstack+web+Developer;Indian+Frontend+backend;Cat+Lover+:3;Pop+Rock+Lover+%3C3; alt="Fullstack web Developer, Indian Full+stack Developer, Pop Rock lover"></a>
 </div>
+<div id="top">Results-driven and versatile Full Stack Developer adept in all stages of advanced web development. Knowledgeable in user interface, testing, and debugging processes. Bringing forth expertise in the design, installation, testing, and maintenance of web systems. 
 
+
+As an Associate Software Developer at TechPlek Technologies, a startup that provides innovative solutions for various domains, I work on developing and maintaining web applications using different tech stacks. I have contributed to several projects, such as an e-commerce platform, a social media app, and a chatbot. I have also improved the user interface, functionality, and performance of the existing applications. I value innovation, collaboration, and quality in my work, and I am looking for opportunities with companies that share these values and offer challenging and rewarding projects.</div>
 
 
 <h2>ℹ️ Project info</h2>
