@@ -7,7 +7,7 @@
 <div id="top">Results-driven and versatile Full Stack Developer adept in all stages of advanced web development. Knowledgeable in user interface, testing, and debugging processes. Bringing forth expertise in the design, installation, testing, and maintenance of web systems. 
 
 
-As an Associate Software Developer at TechPlek Technologies, a startup that provides innovative solutions for various domains, I work on developing and maintaining web applications using different tech stacks. I have contributed to several projects, such as an e-commerce platform, a social media app, and a chatbot. I have also improved the user interface, functionality, and performance of the existing applications. I value innovation, collaboration, and quality in my work, and I am looking for opportunities with companies that share these values and offer challenging and rewarding projects.</div>
+Viewing innovation as an exciting adventure, guiding to explore and build applications that seamlessly blend functionality with user experience. With an ultimate goal to turn newfound knowledge into impactful realities.</div>
 
 
 <h2>ℹ️ Project info</h2>
