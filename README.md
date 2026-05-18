@@ -167,14 +167,6 @@ graph LR
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deepaksharma-39&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=BC8CFF&text_color=E6EDF3" alt="Deepak Sharma GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepaksharma-39&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=E6EDF3" alt="Top languages" />
-</div>
-
----
 
 ## 🤝 Let’s Build Something Useful
 
